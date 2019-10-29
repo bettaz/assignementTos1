@@ -1,4 +1,5 @@
 1227736
-./primavera.md
-./vegetariano.md
+panini
+./panini/primavera.md
+./panini/vegetariano.md
 Paninoteca Padovana
